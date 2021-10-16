@@ -1,0 +1,19 @@
+* {
+    border: solid
+}
+
+.header{
+ background-color: rgb(223, 194, 247);
+ display:flex;
+ justify-content: space-between;
+}
+.games{
+    background-color: deeppink;
+    display:flex;
+    justify-content: space-evenly;
+
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
